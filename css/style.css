@@ -1,0 +1,28 @@
+h1{
+	font-size: 40px;
+    color: blue;
+    background-color: rgb(00,00);
+}
+.heading_1{
+	background-color: yellow;
+}
+h2{
+	color: yellow;
+    background-color: black;
+}
+.heading_2{
+	background-color: green;
+}
+#text1{
+	border: solid red;
+}
+.heading_3{
+	background-color: green;
+}
+h4{
+	font-size: 40px;
+	color: red;
+}
+#text2{
+	font-size: 60px;
+}
